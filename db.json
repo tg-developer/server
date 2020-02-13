@@ -1,0 +1,47 @@
+{
+  "streams": [
+    {
+      "title": "Banners Promocionais: Custom-Cards-Home",
+      "description1": "Podem ser configurados até 6 cards",
+      "description2": "Banners Promocionais: Custom-Cards-Home",
+      "description3": "Título card: 40 caracteres",
+      "description4": "Texto do botão card: 10 caracteres",
+      "description5": "URL card:Url de direcionamento",
+      "img": "https://www.livelo.com.br/file/general/cards_home.JPG",
+      "userId": "117503056857075976037",
+      "id": 2
+    },
+    {
+      "title": "Banner Principal Viagens: custom-banner-product-recommendation",
+      "img": "https://www.livelo.com.br/file/general/custom-banner-product.JPG",
+      "description1": "Podem ser configurados até 6 cards",
+      "description2": "Podem ser configurados até 6 cards",
+      "description3": "Banners Promocionais: Custom-Cards-Home",
+      "userId": "117503056857075976037",
+      "id": 3,
+      "description5": "Banners Promocionais: Custom-Cards-Home"
+    },
+    {
+      "title": "Clube Mais 8",
+      "description1": "testehdwqhdqiowdqow ",
+      "description3": "dwqdqwdqwdqw",
+      "description4": "dwdqwdqw",
+      "description5": "dwqdqwdwqdqss",
+      "img": "https://www.livelo.com.br/file/general/custom-banner-product.JPG",
+      "description2": "csacascasc",
+      "userId": "116677705663873692702",
+      "id": 4
+    },
+    {
+      "title": "dede",
+      "description1": "ddd",
+      "description2": "dd",
+      "description3": "dd",
+      "description4": "dd",
+      "description5": "dd",
+      "img": "https://www.livelo.com.br/file/general/header_surf_home.png",
+      "userId": "116677705663873692702",
+      "id": 5
+    }
+  ]
+}
